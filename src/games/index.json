@@ -1,0 +1,17 @@
+[
+  {
+    "id": "add745",
+    "name": "Сложение",
+    "component": "Add"
+  },
+  {
+    "id": "mul911",
+    "name": "Умножение",
+    "component": "Mul"
+  },
+  {
+    "id": "hangman",
+    "name": "Виселица",
+    "component": "Hangman"
+  }
+]
